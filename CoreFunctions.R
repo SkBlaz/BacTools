@@ -1,0 +1,8 @@
+## This file serves as a script for demonstration of some core funcitons one can execute
+## on various biome data!
+
+
+                                        # draw a heatmap!
+
+                                        # Customize a heatmap!
+
